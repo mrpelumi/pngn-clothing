@@ -3,10 +3,7 @@ import Home from './routes/home/home.component';
 import Navigation from './routes/navigation/navigation.component';
 import Authentication from './routes/authentication/authentication.component';
 // import '../src/routes/navigation/navigation.styles.scss';
-
-const Shop = () => {
-  return <h1>I am the Shop Page</h1>
-}
+import Shop from './routes/shop/shop.component';
 
 const App = () => {
 
@@ -17,8 +14,6 @@ const App = () => {
       <Route path='shop' element={<Shop />} />
       <Route path='auth' element={<Authentication />} />
     </Route>
-    
-    
     
   </Routes>
   );
