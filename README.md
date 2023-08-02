@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -73,3 +72,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # pngn-clothing
 This is an E-Commerce project that uses some of the latest React features.
 >>>>>>> 419fa630cd42ae126a35038f76a5276469a1c225
+=======
+
+>>>>>>> 5ef29894a4b85440c8ec3d76d1594d9bff9b47fd
